@@ -124,24 +124,27 @@ ul.errorlist {
 
 
 #header {
-    padding:10px 100px;
+    padding:40px 410px;
     font-size:18px;
     overflow:auto;
+    background-image: url("../img/header2.jpg");
+
 }
 
 #subheader {
     background:#ececec;
     color:#444;
-    padding:15px 100px;
+    padding:15px 130px;
     overflow:auto;
 }
 
 #header .logo {
     font-family: 'Ubuntu', sans-serif;
     float:left;
-    color:#333;
-    font-size:22px;
-    margin-right:10%;
+    color:#ececec;
+    font-size:42px;
+    margin-right:0%;
+ 
 }
 
 #subheader .cart {
